@@ -1,2 +1,3 @@
 # projecto10
- Projecto feio pelo curso em video
+ Projecto feito por um estudante do curso em video
+ 
